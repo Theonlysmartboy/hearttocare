@@ -9,7 +9,7 @@
 								<li>
 									<img src="{{asset('images/front/page1_img1.jpg')}}" alt="">
 									<div class="flex-caption">
-										<p>Hope</p>
+										<p>Care</p>
 									</div>
 								</li>
 								<li>
