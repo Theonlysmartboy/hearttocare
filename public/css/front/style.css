@@ -25,7 +25,7 @@ a[href^="tel:"] {
 body {
 	position: relative;
 	min-width: 1050px;
-    background: url(../images/bg_body.png) 0 0 repeat #f9f9f6;
+    background: url(../../images/front/bg_body.png) 0 0 repeat #f9f9f6;
     color: #4c4c4c;
     font: 14px/20px Arial, Helvetica, sans-serif;
 }
@@ -148,7 +148,7 @@ ul {
 ul.list li {
     padding-left: 28px;
     font-size: 14px;
-    background: url(../images/marker.png) 0 8px no-repeat;
+    background: url(../../images/front/marker.png) 0 8px no-repeat;
     text-transform: uppercase;
 }
 
@@ -161,7 +161,7 @@ ul.list  li+li {
 }
 
 ul.list.l1 li {
-    background-image: url(../images/marker1.png);
+    background-image: url(../../images/front/marker1.png);
 }
 
 /****Links****/
@@ -466,19 +466,19 @@ a.donate:hover {
 .blog_info time {
     display: inline-block;
     padding-left: 25px;
-    background: url(../images/cal_icon.png) 0 center no-repeat;
+    background: url(../../images/front/cal_icon.png) 0 center no-repeat;
     margin-right: 16px;
 }
 
 .blog_info a.user {
     margin-right: 18px;
     padding-left: 28px;
-    background: url(../images/user_icon.png) 0 center no-repeat;
+    background: url(../../images/front/user_icon.png) 0 center no-repeat;
 }
 
 .blog_info a.comment {
     padding-left: 24px;
-    background: url(../images/comment_icon.png) 0 center no-repeat;
+    background: url(../../images/front/comment_icon.png) 0 center no-repeat;
 }
 
 .blog a.btn {
@@ -595,7 +595,7 @@ a.donate:hover {
     font-size: 14px;
 }
 
- 
+
 
 .map figure {
     position: relative;
@@ -695,7 +695,7 @@ footer {
 .socials a+a+a {
     margin-left: 5px;
     background-color: #ffe202;
-    background: url(../images/last.png) 0 0 no-repeat #0052da;
+    background: url(../../images/front/last.png) 0 0 no-repeat #0052da;
 }
 
 .socials a+a+a:after {
@@ -736,7 +736,7 @@ footer {
     border: none;
     text-indent: -999px;
     z-index: 20;
-    background: url(../images/totop.png) no-repeat left 0;
+    background: url(../../images/front/totop.png) no-repeat left 0;
     transition: 0s ease;
     -o-transition: 0s ease;
     -webkit-transition: 0s ease;
@@ -841,7 +841,7 @@ footer {
     display: block;
     float: left;
     float: right;
-    
+
     width: 0px;
     height: 0px;
     border-style: solid;
@@ -884,7 +884,7 @@ footer {
 }
 
 .bl1 .blog {
-    margin-bottom: 0;    
+    margin-bottom: 0;
 }
 
  .map address {
