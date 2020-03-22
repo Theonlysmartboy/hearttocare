@@ -29,7 +29,7 @@
 						<span id="responsiveFlag"></span>
 					</div>
 					<div class="grid_4">
-						<a href="#" class="donate">Donate</a>
+						<a href="{{route('volunteer')}}" class="donate">Donate</a>
 						<div class="text1">You can change the life of a child who has no hope</div>
 						<p>All we need is your support and the life of some needy child will be changed.</p>
 						We always welcome your donations, volunteer services and any form of support accorded to us in order to change the life of a child.

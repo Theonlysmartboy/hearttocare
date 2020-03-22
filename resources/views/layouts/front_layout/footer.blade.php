@@ -10,8 +10,8 @@
 							<div class="clear"></div>
 						</div>
 						<div class="copy">
-							<strong>Life in Color</strong>   &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a><br>
-							Website designed by <a href="https://www.otemainc.com/" rel="nofollow">Otema Technologies</a>
+							<strong>Heart To care Group</strong>   &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a><br>
+							Website designed by <a href="https://www.otemainc.com/" target="_blank">Otema Technologies</a>
 						</div>
 					</div>
 				</div>
