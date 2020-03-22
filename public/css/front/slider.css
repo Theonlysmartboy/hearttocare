@@ -57,11 +57,11 @@ html[xmlns] .slides {display: block;}
     text-align: center;
     padding: 42px 0 24px;
     text-transform: uppercase;
-    background-color: #92ce0a;
+    background-color: #ac1989;
 }
 
 .flex-caption.c2 {
-    background-color: #ffe202;
+    background-color: #013398;
 }
 
 .flex-caption.c3 {
@@ -96,7 +96,7 @@ html[xmlns] .slides {display: block;}
 		overflow:hidden;
 		position:relative;
 		margin-right: -.25em;
-		
+
 		/*for 5 slides*/
 		width:33.3%;
 	}
@@ -106,6 +106,6 @@ html[xmlns] .slides {display: block;}
 	}
 	.flex-caption {
 		width: 100%;
-	}	
+	}
 	#responsiveFlag{display:block;}
 }

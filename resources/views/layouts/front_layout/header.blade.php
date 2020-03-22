@@ -22,10 +22,10 @@
 										</ul>
 									</ul>
 								</li>
-								<li><a href="index-1.html">Videos </a></li>
-								<li><a href="index-2.html">Campaigns</a></li>
-								<li><a href="index-3.html">Volunteer </a></li>
-								<li><a href="index-4.html">Contacts</a></li>
+								<li><a href="{{route('gallery')}}">Gallery </a></li>
+								<li><a href="{{route('campaign')}}">Campaigns</a></li>
+								<li><a href="{{route('volunteer')}}">Volunteer </a></li>
+								<li><a href="{{route('contact')}}">Contacts</a></li>
 							</ul>
 						</nav>
 						<div class="clear"></div>

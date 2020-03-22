@@ -34,7 +34,7 @@
 	padding: 15px 15px 18px;
 	color: #fff;
 	display: block;
-	background-color: #92ce0a;
+	background-color: #ac1989;
 }
 
 #owl .item a:hover {
@@ -42,7 +42,7 @@
 }
 
 #owl .item.it1 a  {
-	background-color: #ffe202;
+	background-color: #013398;
 }
 
 #owl .item.it2 a  {
@@ -50,7 +50,7 @@
 }
 
 #owl .item.it3 a  {
-	background-color: #ff7f00;
+	background-color: #41a1da;
 }
 
 #owl .owl-wrapper-outer {

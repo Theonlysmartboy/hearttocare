@@ -177,7 +177,7 @@ a {
 }
 
 a:hover {
-	color: #ff5241;
+	color: #41a1da;
 }
 
 a.btn {
@@ -188,7 +188,7 @@ a.btn {
     display: inline-block;
     margin-top: 16px;
     padding: 5px 13px 6px;
-    background-color: #97cc1e;
+    background-color: #ac1989;
     box-shadow: 0px 0px 0px transparent;
 
 }
@@ -342,7 +342,7 @@ a.donate {
     text-align: center;
     padding: 15px 0 17px;
     text-transform: uppercase;
-    background-color: #ff5241;
+    background-color: #41a1da;
     box-shadow: 0px 0px 0px transparent;
 }
 
@@ -443,7 +443,7 @@ a.donate:hover {
     margin-bottom: 6px;
     display: block;
     color: #fff;
-    background-color: #92ce0a;
+    background-color: #ac1989;
     line-height: 38px;
     width: 40px;
     height: 40px;
@@ -673,7 +673,7 @@ footer {
     width: 60px;
     height: 61px;
     position: relative;
-    background-color: #92ce0a;
+    background-color: #ac1989;
     color: #fff;
     box-shadow: 0px 0px 0px transparent;
     font: 36px/61px FontAwesome;
@@ -684,7 +684,7 @@ footer {
 }
 
 .socials a+a {
-    background-color: #ffe202;
+    background-color: #013398;
     margin-left: 6px;
 }
 

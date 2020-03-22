@@ -43,7 +43,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 .sf-menu>li>a{
 	min-width: 104px;
 	text-align: center;
-	background-color: #92ce0a;
+	background-color: #ac1989;
 	display: block;
 	padding: 5px 10px 8px;
 	text-transform: uppercase;
@@ -56,7 +56,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 
 
 .sf-menu>li+li>a {
-	background-color: #ffe202;
+	background-color: #013398;
 }
 
 .sf-menu>li+li+li>a {
@@ -64,7 +64,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 }
 
 .sf-menu>li+li+li+li>a {
-	background-color: #ff7f00;
+	background-color: #41a1da;
 }
 
 .sf-menu>li+li+li+li+li>a {
@@ -76,11 +76,11 @@ nav{ position:relative;padding: 0px 0 0 0;}
 }
 
 .sf-menu>li>a+a {
-	background-color: #ffe202;
+	background-color: #013398;
 }
 
 .sf-menu>li>a+a {
-	background-color: #ffe202;
+	background-color: #013398;
 }
 
 .sf-menu>li>a:hover,
@@ -108,7 +108,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 }
 
 
- 
+
 .sf-menu>li>ul>li>a.sf-with-ul:after {
 	content: '';
 	position: absolute;
@@ -135,7 +135,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 /*================================>> 2 Level <<========================================*/
 .sf-menu li ul,.sf-menu li.sfHover>ul{
 	left: 0px;
-	z-index: 999; 
+	z-index: 999;
 	padding-top: 12px;
 	width: 97px;
 	top: 104px;
@@ -164,7 +164,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 .sf-menu li ul li a{
 	position: relative;
 	z-index: 999;
-	color:#bcbcbc;	
+	color:#bcbcbc;
 
 }
 
@@ -172,8 +172,8 @@ nav{ position:relative;padding: 0px 0 0 0;}
 
 
 
-.sf-menu li li a:hover, 
-.sf-menu li.sfHover li.sfHover>a {  
+.sf-menu li li a:hover,
+.sf-menu li.sfHover li.sfHover>a {
 	color: #fff;
 
 }
@@ -228,11 +228,11 @@ nav{ position:relative;padding: 0px 0 0 0;}
 		text-transform:uppercase;
 		color:#927c67;
 		margin: 0 auto;
-		
-	
+
+
 	}
 
-	
+
 
   header nav ul {
   	border: none;
@@ -249,6 +249,6 @@ nav{ position:relative;padding: 0px 0 0 0;}
     outline: none;
 		border:2px solid #0052DA;
 	}
-	
+
 
 }
