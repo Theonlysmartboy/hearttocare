@@ -30,9 +30,9 @@
 					</div>
 					<div class="grid_4">
 						<a href="#" class="donate">Donate</a>
-						<div class="text1">We can change the life of those who have no hope</div>
-						<p>Etiam dui eros, laoreet sit amet est vel,modo venenatis eros. Fusce adipiscing quam id riss sagittis, non consequat lacus interdum. Proin  tincidunt nulla, eu sodales arcu.</p>
-						Quisquerra nulla nunc, eu ultrices libero ultricies eget. Phasellus accumsan justo vitae feugiat placerat. Praesent vel ultrices velit. Suspendisse risus justo, lacinia vitae eleifend
+						<div class="text1">You can change the life of a child who has no hope</div>
+						<p>All we need is your support and the life of some needy child will be changed.</p>
+						We always welcome your donations, volunteer services and any form of support accorded to us in order to change the life of a child.
 					</div>
 					<div class="clear"></div>
 					<div class="grid_3">
@@ -51,15 +51,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="grid_3">
-						<div class="block2 maxheight">
-							<div class="title">publications</div>
-							<div class="pad">
-								Boetosit amet est el,mmodo venenatis eros. Musce ng quam id risus sagittisnel monsequat lacusut tinn
-								sodales arcuisqut <div class="alright"><a href="#" class="btn">Read More</a></div>
-							</div>
-						</div>
-					</div>
+
 					<div class="grid_3">
 						<div class="block2 maxheight">
 							<div class="title">Participate</div>
@@ -71,36 +63,36 @@
 						<h2>You can help Them</h2>
 						<div id="owl">
 							<div class="item">
-								<a href="#"><img src="{{asset('images/front/page1_img4.jpg')}}" alt="">Jim <br>
-								8 years</a>
+								<a href="#"><img src="{{asset('images/front/page1_img4.jpg')}}" alt=""> <br>
+								</a>
 							</div>
 							<div class="item it1">
-								<a href="#"><img src="{{asset('images/front/page1_img5.jpg')}}" alt="">Ann <br>
-								3 years</a>
+								<a href="#"><img src="{{asset('images/front/page1_img5.jpg')}}" alt=""> <br>
+								</a>
 							</div>
 							<div class="item it2">
-								<a href="#"><img src="{{asset('images/front/page1_img6.jpg')}}" alt="">Linda <br>
-								5 years</a>
+								<a href="#"><img src="{{asset('images/front/page1_img6.jpg')}}" alt=""> <br>
+								</a>
 							</div>
 							<div class="item it3">
-								<a href="#"><img src="{{asset('images/front/page1_img7.jpg')}}" alt="">Mark  <br>
-								6 years</a>
+								<a href="#"><img src="{{asset('images/front/page1_img7.jpg')}}" alt="">  <br>
+								</a>
 							</div>
 							<div class="item">
-								<a href="#"><img src="{{asset('images/front/page1_img4.jpg')}}" alt="">Jim <br>
-								8 years</a>
+								<a href="#"><img src="{{asset('images/front/page1_img4.jpg')}}" alt=""> <br>
+								</a>
 							</div>
 							<div class="item it1">
-								<a href="#"><img src="{{asset('images/front/page1_img5.jpg')}}" alt="">Ann <br>
-								3 years</a>
+								<a href="#"><img src="{{asset('images/front/page1_img5.jpg')}}" alt=""> <br>
+								</a>
 							</div>
 							<div class="item it2">
-								<a href="#"><img src="{{asset('images/front/page1_img6.jpg')}}" alt="">Linda <br>
-								5 years</a>
+								<a href="#"><img src="{{asset('images/front/page1_img6.jpg')}}" alt=""> <br>
+								</a>
 							</div>
 							<div class="item it3">
-								<a href="#"><img src="{{asset('images/front/page1_img7.jpg')}}" alt="">Mark  <br>
-								6 years</a>
+								<a href="#"><img src="{{asset('images/front/page1_img7.jpg')}}" alt="">  <br>
+								</a>
 							</div>
 						</div>
 					</div>
